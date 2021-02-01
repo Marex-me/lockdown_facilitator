@@ -1,0 +1,15 @@
+column_name	column_type	column_constraint
+id	integer	primary key
+name	text	not null
+alterName	text
+nameES	text	
+nameDE	text	
+nameFR	text	
+nameZHHANS	text	
+nameZHHANT	text	
+category_id	integer
+iba	text	
+alcoholic	integer
+glass_id	integer
+creativeCommonsConfirmed	integer
+dateModified	datetime	default (datetime('now'))

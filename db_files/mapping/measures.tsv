@@ -1,0 +1,4 @@
+column_name	column_type	column_constraint
+drink_id	integer	
+ingredient_id	integer	
+measure	text	

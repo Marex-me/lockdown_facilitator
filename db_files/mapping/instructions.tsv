@@ -1,0 +1,8 @@
+column_name	column_type
+drink_id	integer
+en	text
+es	text
+de	text
+fr	text
+zhhans	text
+zhhant	text

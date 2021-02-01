@@ -1,0 +1,3 @@
+column_name	column_type
+drink_id	integer
+tag_id	integer

@@ -1,0 +1,6 @@
+column_name	column_type	column_constraint
+drink_id	integer	
+video	text	
+thumb	text	
+imageSource	text	
+imageAttribution	text	

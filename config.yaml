@@ -1,0 +1,9 @@
+api_url: 'https://www.thecocktaildb.com/api/json/v1'
+api_token: '1'
+db_name: 'CVD_219'
+queries:
+  id: 'lookup.php?i={}'
+  name: 'search.php?s={}'
+  letter: 'search.php?f={}'
+  ingredient_id: 'lookup.php?iid={}'
+  ingredient_name: 'search.php?i={}'
